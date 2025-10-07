@@ -1,5 +1,5 @@
 {
-  "kill": false,
+  "kill": true,
   "Status": "Maintenance mode",
   "Owner": "YourName or Org",
   "note": "Change kill to true to trigger remote shutdown",
