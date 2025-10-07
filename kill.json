@@ -1,0 +1,7 @@
+{
+  "kill": false,
+  "Status": "Maintenance mode",
+  "Owner": "YourName or Org",
+  "note": "Change kill to true to trigger remote shutdown",
+  "updated_at": "2025-10-07T08:00:00Z"
+}
